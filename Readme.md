@@ -59,7 +59,7 @@ docker-compose up -d
 
 - 로그인 성공 시 화면에 sign out 버튼이 나타납니다.
 
-![로그인 후 메인 페이지](./readme-assets-05-app-index,png)
+![로그인 후 메인 페이지](./readme-assets/05-app-index.png)
 
 ### API 테스트 방법
 
